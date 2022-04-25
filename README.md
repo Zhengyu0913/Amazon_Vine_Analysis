@@ -12,37 +12,37 @@ We focused on the US reviews for video games.
 ## Results
 ### Total number of reviews
 - Vine reviews <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/99216761-18d62180-279c-11eb-9190-f5af7b8039ad.png"> 
+    <img src="https://github.com/Zhengyu0913/Amazon_Vine_Analysis/blob/main/Resource/vine_reviews.png"> 
 </p>
 
 <br>
 
 - Non-Vine reviews <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/99216760-17a4f480-279c-11eb-87a8-733eb08893d7.png"> 
+    <img src="https://github.com/Zhengyu0913/Amazon_Vine_Analysis/blob/main/Resource/none_vine_reviews.png"> 
 </p>
 <br>
 
 ### Total number of 5-star reviews
 - Vine reviews <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/99217107-e678f400-279c-11eb-9523-a2f5ef938070.png"> 
+    <img src="https://github.com/Zhengyu0913/Amazon_Vine_Analysis/blob/main/Resource/five_star_vine_reviews.png"> 
 </p>
 
 <br>
 
 - Non-Vine reviews <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/99217109-e7118a80-279c-11eb-93e8-4ea595a723e2.png"> 
+    <img src="https://github.com/Zhengyu0913/Amazon_Vine_Analysis/blob/main/Resource/five_star_none_vine.png.png"> 
 </p>
 <br>
 
 ### Percentage of 5-star reviews
 - Vine reviews <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/99217345-77e86600-279d-11eb-89ce-5704117874da.png"> 
+    <img src="https://github.com/Zhengyu0913/Amazon_Vine_Analysis/blob/main/Resource/pct_vine.png"> 
 </p>
 
 <br>
 
 - Non-Vine reviews <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/99217349-79199300-279d-11eb-826d-18001d7e6b68.png"> 
+    <img src="https://github.com/Zhengyu0913/Amazon_Vine_Analysis/blob/main/Resource/pct_none_vine.png"> 
 </p>
 <br>
 
